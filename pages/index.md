@@ -6,5 +6,5 @@ author: szabgab
 description: The text for the search engines
 ---
 
-
+[Crystal](/crystal/)
 
